@@ -1,18 +1,20 @@
 <div align="center">
 
-# Hi 👋, I'm Tushar Mishra
+<img src="./assets/hero.svg" alt="Lone swordsman under a blood-red moon" width="100%"/>
 
-### Electrical Engineer by degree, Software Developer by passion 💻⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6e0a0e,100:b31217&height=110&section=header&text=&fontSize=0" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hunterportfolio.netlify.app-blueviolet?style=for-the-badge&logo=netlify&logoColor=white)](https://hunterportfolio.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-hunter1290-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hunter1290)
-![Profile Views](https://komarev.com/ghpvc/?username=hunter1290&style=for-the-badge&color=blueviolet)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=22&duration=3200&pause=900&color=B31217&center=true&vCenter=true&width=700&lines=Electrical+Engineer+by+degree;Software+Developer+by+passion;Building+things+that+work...;...and+learning+what+breaks+them." alt="Typing SVG"/></a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-hunterportfolio.netlify.app-b31217?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d0d0d)](https://hunterportfolio.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-hunter1290-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/hunter1290)
+![Profile Views](https://komarev.com/ghpvc/?username=hunter1290&style=for-the-badge&color=b31217&label=SOULS+WITNESSED)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## ⚔️ About Me
 
 ```java
 public class Tushar {
@@ -29,14 +31,14 @@ public class Tushar {
 
 - 🎓 Delhi Technological University
 - 📍 Based in Delhi, India
-- 🔭 Currently building projects across the stack — from APIs to UI
+- 🔭 Currently building projects across the stack, from APIs to UI
 - 🌱 Sharpening my backend & systems skills (Java / Spring Boot)
 - 🌐 Portfolio: [hunterportfolio.netlify.app](https://hunterportfolio.netlify.app/)
 - ⚡ Fun fact: started in Electrical Engineering, ended up shipping code
 
 ---
 
-## 🛠️ Tech Stack
+## 🗡️ Arsenal (Tech Stack)
 
 **Languages**
 
@@ -64,20 +66,18 @@ public class Tushar {
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-> 💡 Remove any badge above that doesn't reflect a tool you actually use, and add new ones the same way (find more at [shields.io](https://shields.io/) or [Simple Icons](https://simpleicons.org/)).
-
 ---
 
-## 📊 GitHub Stats
+## 🩸 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hunter1290&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Tushar's GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunter1290&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hunter1290&show_icons=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=b31217&text_color=d6d0c8&icon_color=b31217" alt="Tushar's GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunter1290&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=b31217&text_color=d6d0c8" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hunter1290&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hunter1290&hide_border=true&background=0d0d0d&ring=b31217&fire=ff3b2f&currStreakNum=d6d0c8&sideNums=d6d0c8&currStreakLabel=b31217&sideLabels=b31217&dates=8a8a8a" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hunter1290&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hunter1290&bg_color=0d0d0d&color=b31217&line=b31217&point=ff3b2f&area=true&area_color=6e0a0e&hide_border=true" alt="Activity Graph" width="100%"/>
 
 </div>
 
@@ -85,15 +85,13 @@ public class Tushar {
 <summary>🏆 GitHub Trophies</summary>
 <br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hunter1290&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hunter1290&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies"/>
 </div>
 </details>
 
 ---
 
-## 📌 Pinned / Featured Projects
-
-> **Note:** GitHub lets you natively pin up to 6 repos to your profile (Profile → Customize your pins). The table below is a manual backup list — keep it in sync with what you pin, and swap in your actual **cutshort** repo link once you paste it to me.
+## 📜 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -110,12 +108,6 @@ public class Tushar {
 
 Check out what I've starred: [github.com/hunter1290?tab=stars](https://github.com/hunter1290?tab=stars)
 
-> Add specific starred repos here in the same table format once you share the links, e.g.:
->
-> | Repo | Why it's starred |
-> |---|---|
-> | [owner/repo](https://github.com/owner/repo) | Short reason |
-
 </details>
 
 ---
@@ -124,11 +116,11 @@ Check out what I've starred: [github.com/hunter1290?tab=stars](https://github.co
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://hunterportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-b31217?style=flat-square&logo=firefox&logoColor=white)](https://hunterportfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hunter1290)
 
-</div>
+<i>⚔️ Thanks for stopping by. Explore my repos and reach out!</i>
 
-<div align="center">
-<i>⭐️ Thanks for stopping by — feel free to explore my repos and reach out!</i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b31217,50:6e0a0e,100:000000&height=100&section=footer" width="100%"/>
+
 </div>
